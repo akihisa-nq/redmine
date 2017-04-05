@@ -1,3 +1,6 @@
 [submodule "plugins/books_wiki_link"]
 	path = plugins/books_wiki_link
 	url = git@github.com:akihisa-nq/redmine_books_wiki_link.git
+[submodule "plugins/redmine_agile"]
+	path = plugins/redmine_agile
+	url = https://github.com/akihisa-nq/redmine_agile.git
